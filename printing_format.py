@@ -1,3 +1,5 @@
+#more info about this @ https://pyformat.info/  
+
 #printing format stuff 
 
 print("This is a {} ".format("test"))
